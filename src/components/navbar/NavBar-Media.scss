@@ -1,0 +1,24 @@
+@media only screen and (max-width: 900px) {
+  .Menu-list{
+    background-color: black;
+  }
+  .menu-list {
+    .List {
+      display: none;
+    }
+    .Logo {
+      a {
+        color: white;
+      }
+    }
+    .BarIcon {
+      display: block;
+    }
+  }
+}
+@media only screen and (min-width: 900px) {
+  .dropDownList{
+    display: none !important;
+  }
+}
+

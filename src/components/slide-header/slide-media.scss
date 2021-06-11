@@ -1,0 +1,49 @@
+
+@media only screen and (max-width: 1000px){
+  .header-slider{
+    .header-slide-image{
+      width: 100% ;
+      line-height: 1.5;
+      .header-direction{
+        width: 100% ;
+        transform: translate(0) ;
+        h1{
+          color: #0134C7;
+        }
+        p{
+          color: #0134C7;
+        }
+        button{
+          padding: 13px 17px;
+          margin-top: 22px;
+          font-size: 18px;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 750px){
+  .header-slider{
+    .header-slide-image{
+      height: 80vh;
+      .header-direction{
+        h1{
+          text-align: center;
+          font-size: 45px;
+        }
+        p{
+          padding: 0 15px;
+          font-size: 17px;
+          text-align: center;
+          color: #0134C7;
+        }
+        button{
+          padding: 10px 15px;
+          margin:20px auto;
+          display: block;
+          font-size: 15px;
+        }
+      }
+    }
+  }
+}
