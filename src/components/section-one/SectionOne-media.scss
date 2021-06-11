@@ -37,6 +37,9 @@
 }
 
 @media only screen and (max-width: 800px) {
+  #section-one{
+    margin-top: 50px;
+  }
   .sec-one-main{
     display: flex;
     flex-direction: column;
