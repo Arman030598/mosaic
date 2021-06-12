@@ -1,0 +1,40 @@
+.services{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .serv-title{
+    width: 30%;
+    h1{
+      font-size: 50px;
+    }
+    p{
+      font-size: 20px;
+      margin-top: 30px;
+      color: grey;
+    }
+  }
+  .serv-main{
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    .skils{
+      padding: 30px 30px 45px;
+      width: 40%;
+      background-color: #FAFAFA;
+      .icon-skils>span{
+        font-size: 70px;
+        color: #0134C7;
+      }
+      h2{
+        font-size: 24px;
+        font-weight: 600;
+        margin:10px 0;
+      }
+      p{
+        line-height: 1.8;
+        color: grey;
+      }
+    }
+  }
+}

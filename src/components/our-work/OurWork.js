@@ -48,7 +48,7 @@ export default () => {
                         <div className="bottom-ourwork">
                             {ourWorks.map((e, i) => {
                                 return (
-                                    <div className="ourWorks">
+                                    <div key={i} className="ourWorks">
                                         <div className="icon_arrow">
                                             <div className="icon">
                                                 <span className="material-icons-outlined">{e.icon}</span>

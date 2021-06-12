@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a377686-b565-43b5-ab28-9c23cec39dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/our-work/OurWork-media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/our-work/OurWork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/our-work/OurWork.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/Services-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/Services.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/our-work/OurWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/our-work/OurWork.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/section-two/SectionTwo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section-two/SectionTwo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/sections.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/sections.js" afterDir="false" />
     </list>
@@ -44,6 +43,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,7 +82,7 @@
       <workItem from="1623424737032" duration="13894000" />
       <workItem from="1623491165761" duration="142000" />
       <workItem from="1623506546939" duration="1155000" />
-      <workItem from="1623529619460" duration="3430000" />
+      <workItem from="1623529619460" duration="5800000" />
     </task>
     <servers />
   </component>
@@ -101,5 +101,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/our-work/OurWork.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
