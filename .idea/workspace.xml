@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a377686-b565-43b5-ab28-9c23cec39dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section-two/SectionTwo-media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section-two/SectionTwo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section-two/SectionTwo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/our-work/OurWork-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/our-work/OurWork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/our-work/OurWork.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/section-one/SectionOne-media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section-one/SectionOne-media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/section-one/SectionOne.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section-one/SectionOne.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/section-two/SectionTwo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section-two/SectionTwo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/sections.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/sections.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +79,10 @@
       <workItem from="1623184745536" duration="8749000" />
       <workItem from="1623249238272" duration="2777000" />
       <workItem from="1623327025081" duration="26000" />
-      <workItem from="1623424737032" duration="13007000" />
+      <workItem from="1623424737032" duration="13894000" />
+      <workItem from="1623491165761" duration="142000" />
+      <workItem from="1623506546939" duration="1155000" />
+      <workItem from="1623529619460" duration="3430000" />
     </task>
     <servers />
   </component>
@@ -91,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,0 +1,42 @@
+@media only screen and (max-width: 900px){
+  .top-ourwork{
+    h1{
+      font-size: 35px;
+    }
+    .title-ow{
+      width:97%;
+      margin: 0 auto;
+      font-size: 30px;
+    }
+    .owd{
+      width: 97%;
+      margin: 0 auto;
+      p{
+        font-size: 18px;
+        color: grey;
+      }
+    }
+  }
+  .bottom-ourwork{
+    flex-wrap: wrap;
+    width: 97%;
+    margin: 0 auto;
+    .ourWorks{
+      margin-top: 30px;
+      width: 100%;
+      h1{
+        font-size: 20px;
+      }
+      p{
+        font-size: 17px;
+      }
+    }
+    .icon_arrow{
+
+      .arrow-ow{
+        width: 90%;
+      }
+
+    }
+  }
+}
