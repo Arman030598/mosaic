@@ -1,0 +1,131 @@
+@media only screen and (max-width: 1500px) {
+  .project{
+    .projects-title{
+      .pro-title{
+        h2{
+          font-size: 30px;
+        }
+        .line-project{
+          h1{
+            font-size: 18px;
+          }
+        }
+      }
+      .pro-desc{
+        p{
+          font-size: 16px;
+        }
+      }
+    }
+    .projects-bottom{
+      .list-skils{
+            ul>li>a{
+              font-size: 15px;
+            }
+      }
+      .same-projects{
+        .card-project{
+          .opasity-card{
+            .top-opcard{
+              padding: 15px;
+              h3{
+                font-size: 16px;
+              }
+              h1{
+                font-size: 20px;
+              }
+            }
+            .bottom-opcard{
+              padding: 15px;
+              span{
+                padding: 10px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .project{
+    .pro-title{
+      padding-left: 1.5% ;
+    }
+    .projects-bottom{
+      .list-skils{
+        ul{
+          width:  40%;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 900px){
+  .project{
+    .projects-title{
+      .pro-title{
+        width: 100%;
+        h2{
+          font-size: 35px;
+        }
+        .line-project{
+          h1{
+            font-size: 20px;
+          }
+        }
+      }
+      .pro-desc{
+        width: 100%;
+        margin-top: 30px;
+        padding-left: 1.5%;
+      }
+    }
+    .projects-bottom{
+      .list-skils{
+        ul{
+          width: 100%;
+          justify-content: flex-start;
+          li{
+            padding-left:1.5%;
+          }
+        }
+      }
+      .same-projects{
+        .card-project{
+          width: 50%;
+          height: 50vw;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 600px){
+  .project{
+    .projects-title{
+      .pro-title{
+        h2{
+          font-size: 25px;
+        }
+        .line-project{
+          h1{
+            font-size: 16px;
+          }
+        }
+      }
+      .pro-desc{
+        p{
+          font-size: 15px;
+        }
+      }
+    }
+    .projects-bottom{
+      .same-projects{
+        .card-project{
+          width: 100%;
+          height: 100vw;
+        }
+      }
+    }
+  }
+}
