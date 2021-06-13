@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1200px){
+  .top-testy{
+    width: 70%;
+    .title-testy{
+      h1{
+        font-size: 30px;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 800px){
+  .top-testy{
+    width: 100%;
+    padding: 0 1.5%;
+    .title-testy{
+      h1{
+        font-size: 20px;
+      }
+    }
+    .top-testu-line{
+      h1{
+        font-size: 18px;
+      }
+    }
+  }
+}

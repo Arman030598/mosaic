@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a377686-b565-43b5-ab28-9c23cec39dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/projects/Projects-media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/Projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/carusel-testimony/carusel-testimony.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/carusel-testimony/carusel-testimony.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/testimony-top-sec/TestyMonyTop-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/testimony-top-sec/TestyMonyTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/testimony-top-sec/TestyMonyTop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testimony/Testimony.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/sections.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/sections.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,9 +49,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\inorainmediatesq\src" />
       <recent name="C:\Users\User\inorainmediatesq\src\components" />
       <recent name="C:\Users\User\inorainmediatesq\src\components\slide-header" />
-      <recent name="C:\Users\User\inorainmediatesq\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -80,7 +84,7 @@
       <workItem from="1623424737032" duration="13894000" />
       <workItem from="1623491165761" duration="142000" />
       <workItem from="1623506546939" duration="1155000" />
-      <workItem from="1623529619460" duration="15679000" />
+      <workItem from="1623529619460" duration="24229000" />
     </task>
     <servers />
   </component>
