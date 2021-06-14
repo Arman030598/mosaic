@@ -5,10 +5,8 @@ import './App.scss';
 function App() {
   return (
     <>
-      <header>
         <Header />
-      </header>
-      <Sections/>
+        <Sections />
     </>
   );
 }

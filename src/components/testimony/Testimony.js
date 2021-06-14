@@ -1,5 +1,5 @@
-import CaruselTestimony from '../components/carusel-testimony/carusel-testimony'
-import TestyMonyTop from "../components/testimony-top-sec/TestyMonyTop";
+import CaruselTestimony from '../carusel-testimony/carusel-testimony'
+import TestyMonyTop from "./testimony-top-sec/TestyMonyTop";
 
 export default ()=>{
     const stl={

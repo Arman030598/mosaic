@@ -1,0 +1,96 @@
+#our-team{
+  padding: 100px 0;
+}
+.title-out-team{
+  width: 55%;
+  margin: 0 auto;
+  .line-ot{
+    display: flex;
+    h1{
+      font-size: 18px;
+      width: 20%;
+      font-weight: 400;
+      color: grey;
+    }
+    span{
+      width: 80%;
+      border: 1px solid grey;
+      height: 0;
+      align-self: center;
+    }
+  }
+  .desc-our-team{
+    h1{
+      font-size: 40px;
+      padding: 20px 0;
+    }
+    p{
+      font-size: 20px;
+      color: grey;
+    }
+  }
+}
+.main-our-team{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .members{
+    width: 23%;
+    cursor: pointer;
+    .image-member{
+      width: 100%;
+      height: 20vw;
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .about-his{
+      padding: 30px;
+      background-color: white;
+      transition: .6s;
+      h1{
+        font-size: 22px;
+        color: grey;
+      }
+      h3{
+        font-size: 19px;
+        font-weight: 200;
+        color: #0134C7;
+        padding: 5px 0;
+      }
+      p{
+        padding-top: 10px;
+        font-size: 17px;
+        color:gray;
+        opacity: 0;
+        transition: .6s;
+      }
+      .icons-social{
+        opacity: 0;
+        padding-top: 30px;
+        transition: .6s;
+        svg{
+          margin-right: 15px;
+          font-size: 20px;
+          color: #0134C7;
+        }
+      }
+    }
+    &:hover{
+      .about-his{
+        transform: translate(0,-25%);
+        transition: .6s;
+      }
+      p{
+        opacity: 1;
+        transition: .6s;
+      }
+      .icons-social{
+        opacity: 1;
+        transition: .6s;
+      }
+    }
+  }
+}
