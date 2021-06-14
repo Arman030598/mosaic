@@ -6,6 +6,7 @@
   .title-blog{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     h2{
       font-size: 40px;
       font-weight: 400;
